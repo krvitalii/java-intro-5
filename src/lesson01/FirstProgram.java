@@ -1,6 +1,6 @@
 package lesson01;
 
-public class FirstProgramm {
+public class FirstProgram {
 
     public static void main(String[] args) {
         System.out.println("Hello World!!!");
